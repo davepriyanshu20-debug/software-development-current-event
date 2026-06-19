@@ -41,4 +41,7 @@ In this video, we're exploring how this is changing the way developers actually 
 \- Speak a little slower on "AI-powered coding assistant" — it's the key definition
 
 \- Can be read straight to camera, as a voiceover over slides, or as a screen recording intro
+---
+
+\*\*Handoff note for video editing:\*\* This intro segment should transition into Member 2's section on benefits/impact. Suggested cue line before cut: "...changing the way developers actually build software" → cut to Member 2.
 
