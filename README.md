@@ -20,5 +20,5 @@ Member 3: Challenges, conclusion, video editing, and YouTube upload.
 
 ## Video
 
-\[YouTube link — to be added]
+\[YouTube link — https://youtu.be/0oVqhsscLEw]
 
